@@ -24,7 +24,7 @@ pip install requests
 URL 必须用双引号包裹（PowerShell 中 `&` 是特殊字符）：
 
 ```powershell
-python yamibo_downloader.py "<帖子URL>" [保存目录]
+python yamibo_downloader.py "<帖子URL>" "保存目录"
 ```
 
 示例：
