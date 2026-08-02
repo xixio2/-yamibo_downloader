@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Whitelist core files
+!.gitignore
+!README.md
+!yamibo_downloader.py
+!LICENSE
